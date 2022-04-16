@@ -39,6 +39,6 @@ public class OpenCSVAndGSONTester {
 
 		} catch (IOException e) {
 			e.printStackTrace();
-		}
+		 }
 	}
 }
